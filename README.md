@@ -7,5 +7,14 @@ Projeto de implantação de um portfólio digital integrado com Google Workspace
 [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/drive/folders/1U_PbFyJA0TWlh35FIQ1xJLtqu52XrReK?usp=drive_link)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/SEU-LINK)
 
+<a href="https://drive.google.com/SEU-LINK" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Google_Drive_logo.png" width="30"/>
+</a>
+
+<a href="https://youtube.com/SEU-LINK" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Youtube%28amin%29.png" width="30"/>
+</a>
+
+
 
 
